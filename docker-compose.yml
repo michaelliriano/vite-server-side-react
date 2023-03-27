@@ -1,0 +1,14 @@
+version: "3.7"
+
+services:
+  server-side-react:
+    container_name: server-side-react
+    build:
+      context: .
+    volumes:
+      - ".:/app"
+      - "/app/node_modules"
+    ports:
+      - 3000:3000
+    environment:
+      - NODE_ENV=production
