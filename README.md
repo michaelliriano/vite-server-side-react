@@ -1,6 +1,6 @@
 # Vite Server Side React
 
-This project is a server-side rendered React application built using React library and other supporting libraries like Express, ReactDOMServer, and StaticRouter. The project enables server-side rendering for a React application, which improves SEO, page speed, and the user experience for slower internet connections.
+This project is a server-side rendered React application built using React library and other supporting libraries like Express, ReactDOMServer, and React Router. Some benefits of this setup include: improved SEO, page speed, and the user experience for slower internet connections.
 
 ## Getting started
 
